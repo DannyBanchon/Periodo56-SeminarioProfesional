@@ -1,2 +1,3 @@
-# Periodo56-SeminarioProfesional
-Análisis, Diseño e Implementación de Aplicaciones Web mediante Node.js + MongoDB
+# Universidad Politécnica Salesiana
+## Seminario Profesional
+Material del Seminario Profesional sobre Node.js + MongoDB
