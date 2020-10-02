@@ -1,0 +1,29 @@
+{
+  "name": "utcae",
+  "version": "1.0.0",
+  "description": "Sistema de Titulación para la carrera de Administración de Empresas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utcae"
+  ],
+  "author": "Danny Banchon",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "Promise": "^1.0.5",
+    "async-await": "^0.1.40",
+    "body-parser": "^1.19.0",
+    "console": "^0.7.2",
+    "exports": "0.0.1",
+    "express": "^4.17.1",
+    "function": "^0.6.1",
+    "module": "^1.2.5",
+    "mongoose": "^5.10.7",
+    "require": "^2.4.20",
+    "response": "^0.18.0",
+    "router": "^1.3.5",
+    "server": "^1.0.30"
+  }
+}
